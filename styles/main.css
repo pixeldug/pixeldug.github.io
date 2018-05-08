@@ -1,0 +1,9 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background: #fff;
+    background-image: url('../images/bg.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right bottom; 
+}
